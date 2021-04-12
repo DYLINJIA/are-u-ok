@@ -26,7 +26,7 @@
 
 系统要求: 已安装`python`
 
-第一次使用流程:
+第一次使用流程:  
 
 1. 下载本项目 `git clone https://github.com/unbyte/are-u-ok`
 2. 进入项目目录`cd are-u-ok`
